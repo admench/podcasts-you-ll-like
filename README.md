@@ -32,7 +32,7 @@ Book Shows: Long format shows discussing books (including books on Marketing, Di
 
 <hr>
 
-[<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/99percentinvisible.png" alt="Responsive Web Design">](http://99percentinvisible.org/)
+[<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/99percentinvisible.png" alt="99 Percent Invisible">](http://99percentinvisible.org/)
 
 *[99% Invisible](http://99percentinvisible.org/)* -  “is a tiny radio show about design, architecture & the 99% invisible activity that shapes our world.”
 
@@ -40,6 +40,14 @@ Book Shows: Long format shows discussing books (including books on Marketing, Di
 
 # Documentary
 
-[<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/serial.png" alt="Responsive Web Design">](http://serialpodcast.org/)
+[<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/serial.png" alt="Serial">](http://serialpodcast.org/)
 
 *[Serial](http://serialpodcast.org/)* -  “Serial is a podcast from the creators of This American Life, and is hosted by Sarah Koenig. Serial tells one story - a true story - over the course of an entire season. Each season, we'll follow a plot and characters wherever they take us. And we won’t know what happens at the end until we get there, not long before you get there with us. Each week we bring you the next chapter in the story, so it's important to listen to the episodes in order, starting with Episode 1.” 
+
+# Quiz
+
+[<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/waitwaitdonttellme.png" alt="Wait wait... don't tell me!">](http://www.npr.org/programs/wait-wait-dont-tell-me/)
+
+*[Wait wait... don't tell me!](http://www.npr.org/programs/wait-wait-dont-tell-me/)* -  “is NPR's weekly hour-long quiz program. Each week on the radio you can test your knowledge against some of the best and brightest in the news and entertainment world while figuring out what's real news and what's made up. On the Web, you can play along too.
+
+It takes more than a couple brain cells to make this show what it is... so let's give credit where credit's due.”
