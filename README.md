@@ -1,9 +1,10 @@
-# Podcast's you'll Like!
+## Podcast's you'll Like!
 
 ### A list of great podcasts, from web development to intriguing storytelling and beyond.
 
+<hr>
 
-## Web Development
+# Web Development
 
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/Shoptalk.png" alt="Shoptalk Show">](http://shoptalkshow.com/)
 
@@ -21,7 +22,9 @@
 
 *[Responsive Web Design](http://responsivewebdesign.com/podcast/)* -  is a Responsive Web Design Podcast, co-hosted by Karen McGrane and Ethan Marcotte. In each episode, Karen and Ethan interview the people who make responsive redesigns happen.
 
-## Design
+<hr>
+
+# Design
 
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/99percentinvisible.png" alt="Responsive Web Design">](http://99percentinvisible.org/)
 
