@@ -21,7 +21,7 @@
 
 *[Responsive Web Design](http://responsivewebdesign.com/podcast/)* -  is a Responsive Web Design Podcast, co-hosted by Karen McGrane and Ethan Marcotte. In each episode, Karen and Ethan interview the people who make responsive redesigns happen.
 
-<hr>
+## Design
 
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/99percentinvisible.png" alt="Responsive Web Design">](http://99percentinvisible.org/)
 
