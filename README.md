@@ -20,7 +20,7 @@
 
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/Responsivewebdesign.png" alt="Responsive Web Design">](http://responsivewebdesign.com/podcast/)
 
-*[Responsive Web Design](http://responsivewebdesign.com/podcast/)* -  is a Responsive Web Design Podcast, co-hosted by Karen McGrane and Ethan Marcotte. In each episode, Karen and Ethan interview the people who make responsive redesigns happen.
+*[Responsive Web Design](http://responsivewebdesign.com/podcast/)* -  “is a Responsive Web Design Podcast, co-hosted by Karen McGrane and Ethan Marcotte. In each episode, Karen and Ethan interview the people who make responsive redesigns happen.”
 
 <hr>
 
@@ -34,12 +34,12 @@ Book Shows: Long format shows discussing books (including books on Marketing, Di
 
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/99percentinvisible.png" alt="Responsive Web Design">](http://99percentinvisible.org/)
 
-*[99% Invisible](http://99percentinvisible.org/)* -  is a tiny radio show about design, architecture & the 99% invisible activity that shapes our world.
-
-# Documentary
+*[99% Invisible](http://99percentinvisible.org/)* -  “is a tiny radio show about design, architecture & the 99% invisible activity that shapes our world.”
 
 <hr>
 
+# Documentary
+
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/serial.png" alt="Responsive Web Design">](http://serialpodcast.org/)
 
-*[Serial](http://serialpodcast.org/)* -  Serial is a podcast from the creators of This American Life, and is hosted by Sarah Koenig. Serial tells one story - a true story - over the course of an entire season. Each season, we'll follow a plot and characters wherever they take us. And we won’t know what happens at the end until we get there, not long before you get there with us. Each week we bring you the next chapter in the story, so it's important to listen to the episodes in order, starting with Episode 1. 
+*[Serial](http://serialpodcast.org/)* -  “Serial is a podcast from the creators of This American Life, and is hosted by Sarah Koenig. Serial tells one story - a true story - over the course of an entire season. Each season, we'll follow a plot and characters wherever they take us. And we won’t know what happens at the end until we get there, not long before you get there with us. Each week we bring you the next chapter in the story, so it's important to listen to the episodes in order, starting with Episode 1.” 
