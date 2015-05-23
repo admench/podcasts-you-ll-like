@@ -38,6 +38,14 @@ Book Shows: Long format shows discussing books (including books on Marketing, Di
 
 <hr>
 
+# Business
+
+[<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/smartpassiveincome.png" alt="Smart Passive Income">](http://serialpodcast.org/)
+
+*[Smart Passive Income](http://serialpodcast.org/)* -  “Serial is a podcast from the creators of This American Life, and is hosted by Sarah Koenig. Serial tells one story - a true story - over the course of an entire season. Each season, we'll follow a plot and characters wherever they take us. And we won’t know what happens at the end until we get there, not long before you get there with us. Each week we bring you the next chapter in the story, so it's important to listen to the episodes in order, starting with Episode 1.” 
+
+<hr>
+
 # Documentary
 
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/serial.png" alt="Serial">](http://serialpodcast.org/)
@@ -61,3 +69,11 @@ It takes more than a couple brain cells to make this show what it is... so let's
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/cartalk.png" alt="Car Talk">](http://www.cartalk.com/)
 
 *[Car Talk](http://www.cartalk.com/)* -  “Car Talk from NPR. Car advice, tips, troubleshooting, and answers to your car questions. Find a mechanic, hear past shows, play the puzzler, join our discussion boards, and learn safe driving tips.” Nice chatter from these seasoned car experts - great to relax to !
+
+<hr>
+
+# Other Resources to find more podcasts
+
+[<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/podcastmovement.png" alt="Podcast Movement">](http://podcastmovement.com/)
+
+[Podcast Movement](http://podcastmovement.com/) - Podcast Movement | For Podcasters, By Podcasters. Podcast Movement 2015 will be THE gathering for anyone interested in podcasting. You can expect to find a place where not only will you leave motivated and inspired, you’ll leave a BETTER PODCASTER.
