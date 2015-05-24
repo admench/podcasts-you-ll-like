@@ -72,7 +72,7 @@ It takes more than a couple brain cells to make this show what it is... so let's
 
 [<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/scroobiuspip.png" alt="Scroobius Pip">](http://www.scroobiuspip.co.uk/distraction-pieces-podcast/)
 
-*[Scroobius Pip](http://www.scroobiuspip.co.uk/distraction-pieces-podcast/)* -  interesting long form discussions with musicians, celebrities and more.. Guests include Russel Brand, Zane Lowe, Alan Moore & DJ Yoda. [Scroobius Pip](http://en.wikipedia.org/wiki/Scroobius_Pip) is himself a spoken word poet Hip Hop recording artist from the Stanford-le-hope, Essex, UK.
+*[Scroobius Pip](http://www.scroobiuspip.co.uk/distraction-pieces-podcast/)* -  interesting long form discussions with musicians, celebrities and more.. Guests include Russel Brand, Zane Lowe, Alan Moore & DJ Yoda. [Scroobius](http://en.wikipedia.org/wiki/Scroobius_Pip) himself is a spoken word poet Hip Hop recording artist from the Stanford-le-hope, Essex, UK.
 
 <hr>
 
