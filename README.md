@@ -70,6 +70,10 @@ It takes more than a couple brain cells to make this show what it is... so let's
 
 *[Car Talk](http://www.cartalk.com/)* -  “Car Talk from NPR. Car advice, tips, troubleshooting, and answers to your car questions. Find a mechanic, hear past shows, play the puzzler, join our discussion boards, and learn safe driving tips.” Nice chatter from these seasoned car experts - great to relax to !
 
+[<img src="https://github.com/admench/podcasts-you-ll-like/blob/master/images/scroobiuspip.png" alt="Scroobius Pip">](http://www.scroobiuspip.co.uk/distraction-pieces-podcast/)
+
+*[Scroobius Pip](http://www.scroobiuspip.co.uk/distraction-pieces-podcast/)* -  interesting long form discussions with musicians, celebrities and more.. Guests include Russel Brand, Zane Lowe, Alan Moore & DJ Yoda. Scroobius Pip is himself a spoken word poet Hip Hop recording artist from the Stanford-le-hope, Essex, UK.
+
 <hr>
 
 # Other Resources to find more podcasts
